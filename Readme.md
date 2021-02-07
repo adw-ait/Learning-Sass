@@ -154,7 +154,7 @@ $colors : (color1 : blue, color2 : black, color3 : red);
 
 
 
-## **@while loop **
+## @while loop 
 
 similar functionality to the JavaScript while loop.
 
